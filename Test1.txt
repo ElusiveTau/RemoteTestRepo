@@ -1,1 +1,4 @@
 Initial Change
+New change
+Minor change #1
+Minor change #2
