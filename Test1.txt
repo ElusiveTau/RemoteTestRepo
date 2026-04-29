@@ -2,4 +2,4 @@ Initial Change
 New change
 Minor change #1
 Minor change #2
-Change#1 from Branch#1
+Change#1 from Branch#1. Line 5, changed from master.
